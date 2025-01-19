@@ -1,6 +1,7 @@
 # BTCPay Server
 
 ![BTCPay Server](BTCPayServer/wwwroot/img/btc_pay_BG_twitter.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fbtcpayserver.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fbtcpayserver?ref=badge_shield)
 
 <h3 align="center">
   Accept Bitcoin payments ₿
@@ -71,6 +72,9 @@
   ·
   <a href="https://docs.btcpayserver.org/FAQ/">FAQ</a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fbtcpayserver.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fbtcpayserver?ref=badge_large)
 
 ## 💼 Table of Contents
 
